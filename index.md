@@ -1,6 +1,6 @@
 
 
-# Nom du projet
+# Communication intra-espèce (fourmis)
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
@@ -12,7 +12,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+|Momo la frappe| John le magnifique | Killian pas Mbapp  | Idris  |
 
 
 ## Description synthétique du projet
