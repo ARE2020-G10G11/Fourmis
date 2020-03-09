@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ARE2020-G10G11/Fourmis/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Nom du projet
 
-### Markdown
+Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## English version
 
-```markdown
-Syntax highlighted code block
+Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
 
-# Header 1
-## Header 2
-### Header 3
+## Présentation de l'équipe
 
-- Bulleted
-- List
+|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
+|-----|--|--|--|
+| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Description synthétique du projet
 
-[Link](url) and ![Image](src)
-```
+**Problématique :** 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Hypothèse principale :**
 
-### Jekyll Themes
+**Hypothèses secondaires :** 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ARE2020-G10G11/Fourmis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Objectifs :**
 
-### Support or Contact
+**Critère(s) d'évaluation :**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Présentation structurée des résultats
+
+Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
+
+## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+
+## Bibliographie :
+
+**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
+
+Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+
