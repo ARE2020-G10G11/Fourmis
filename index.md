@@ -37,5 +37,7 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
 
+https://framindmap.org/mindmaps/index.html
+
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
 
