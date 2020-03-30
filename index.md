@@ -37,7 +37,7 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
 
-https://github.com/ARE2020-G10G11/Fourmis/blob/master/te%CC%81le%CC%81chargement.png
+https://github.com/ARE2020-G10G11/Fourmis/blob/master/Carte%20Mentale%20fourmi.png
 
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
 
