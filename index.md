@@ -17,13 +17,20 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Description synthétique du projet
 
+**Thème :**
+Communication intra-espèce (fourmis)
+
 **Problématique :** 
+Par quel(s) mécanisme(s) les fourmis arrivent toujours à se déplacer suivant le chemin le plus optimal vers leur nourriture ?
 
 **Hypothèse principale :**
+Un moyen efficace de communication serait à l'origine du choix de déplacement le plus optimisé pour elles.
 
-**Hypothèses secondaires :** 
+**Objectif :**
+Prouver qu'il existe un moyen de communication entre les fourmis, en modélisant les traces de phéromones. 
 
-**Objectifs :**
+**Objectif secondaire :**
+Démontrer que les fourmis appliquent bel et bien un principe pour trouver le déplacement le plus rapide vers la source de nourriture.
 
 **Critère(s) d'évaluation :**
 
