@@ -6,7 +6,9 @@ Résumé de quelques lignes présentant l'objectif de votre projet, la méthode 
 
 ## English version
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+**Intraspecies transmission among ants **
+
+This study concerns the mode of travel about the ants. How the ants can chose the best way to get some nourishment ?
 
 ## Présentation de l'équipe
 
